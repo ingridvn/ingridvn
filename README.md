@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center"alt="PS" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-  <img align="right" alt="Perfil" style="border-radius:50px;" width="237" src="https://user-images.githubusercontent.com/98630149/155889588-3e5946cb-3608-41fd-9937-010f201dcfbc.png">
+  <img align="right" alt="Perfil" style="border-radius:50px;" width="237" src="https://user-images.githubusercontent.com/98630149/157795712-7dd65ece-1e78-45f5-a209-6742a102eb45.png">
 </div>
   
   ##
